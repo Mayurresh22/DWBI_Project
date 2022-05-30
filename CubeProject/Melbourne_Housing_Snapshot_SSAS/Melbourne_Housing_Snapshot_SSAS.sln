@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1913
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Melbourne_Housing_Snapshot_SSAS", "Melbourne_Housing_Snapshot_SSAS’\Melbourne_Housing_Snapshot_SSAS.dwproj", "{28EC98E3-4534-4A59-BE78-903932D764D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28EC98E3-4534-4A59-BE78-903932D764D0}.Development|Default.ActiveCfg = Development
+		{28EC98E3-4534-4A59-BE78-903932D764D0}.Development|Default.Build.0 = Development
+		{28EC98E3-4534-4A59-BE78-903932D764D0}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38816573-DBE9-4939-B8D9-65B5E7EE3321}
+	EndGlobalSection
+EndGlobal

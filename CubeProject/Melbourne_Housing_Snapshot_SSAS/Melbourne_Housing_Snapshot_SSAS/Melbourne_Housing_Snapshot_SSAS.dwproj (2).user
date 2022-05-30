@@ -1,0 +1,29 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>DS_Melbourne_Housing_Snapshot_DW</Id>
+            <Name>DS_Melbourne_Housing_Snapshot_DW</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlXw2uRxNbUalNKF6m0KCqgAAAABCAAAARABTAF8ATQBlAGwAYgBvAHUAcgBuAGUAXwBIAG8AdQBzAGkAbgBnAF8AUwBuAGEAcABzAGgAbwB0AF8ARABXAAAAEGYAAAABAAAgAAAAvODcWt7/zHa7aDKtVUslqOcLNi1A7k8H6w2gNzfwpQEAAAAADoAAAAACAAAgAAAA4L/WqMnoeUzB1WQsESUIwBlyn4qo9Pjb7yumqaWxliIgAAAA7mBSu0mkEAqNNtg4QQx0UyKYkxqNgGc4Es5zrWFEQlVAAAAABYBILvAhv77nLE7hnZ530HTWpl8X3QGa/LO2KRHKfsQZUoI6p/P03BYhFZU39sKqUBK3mAeE/cBQWCYuSOv6Aw==</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>DS_Melbourne_Housing_Snapshot_DW</Id>
+            <Name>DS_Melbourne_Housing_Snapshot_DW</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlXw2uRxNbUalNKF6m0KCqgAAAABCAAAARABTAF8ATQBlAGwAYgBvAHUAcgBuAGUAXwBIAG8AdQBzAGkAbgBnAF8AUwBuAGEAcABzAGgAbwB0AF8ARABXAAAAEGYAAAABAAAgAAAADiVlJuMTHqa+78JqNfn+RXSkAnVEYC4mVSexazZs5pMAAAAADoAAAAACAAAgAAAA2YgQpYODCSoYL9ds4GM+9wia4V/1gBRH9uqvOxCZJJ4gAAAAwLhxVEyAykVlYY6WH55p9FrpkZZCOllv0hBXSt/baZVAAAAAAdXjRNy2C/2QTF/rCOPKodPdXpY9cScV9sbFrAttgMPf5JNiYtjNZp+nrgk1hl7Y1cEwH78G+6rH332KJp+dWQ==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>DESKTOP-28QHKAH\MSSQLSEVER17</TargetServer>
+        <TargetDatabase>Melbourne_Housing_Snapshot_SSAS’</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
